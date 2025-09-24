@@ -49,6 +49,6 @@ Creates fear and urgency → classic social engineering trick.
 
 Sentence structure is slightly unnatural: “We detected unusual activity” followed by “permanently locked” without proper phrasing.
 
-Minor grammar inconsistencies common in phishing emails.ails.
+Minor grammar inconsistencies common in phishing emails.
 
 
